@@ -13,5 +13,6 @@
     ],
     "terminal.integrated.allowMnemonics": true,
     "svn.ignoreMissingSvnWarning": true,
-    "batchrunner.runBatchIn": "External-cmd"
+    "batchrunner.runBatchIn": "External-cmd",
+    "python.analysis.typeCheckingMode": "basic"
 }
